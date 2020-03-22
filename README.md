@@ -1,6 +1,6 @@
 # Agiles Projektmanagement
 
-Bitte bearbeiten Sie die Materialien zu den folgenden Themen. Weitere Materialien (in Form von Aufgaben) etc. wird folgen:
+Bitte bearbeiten Sie die Materialien zu den folgenden Themen. Weitere Materialien (in Form von Aufgaben) etc. werden folgen:
 
   * [Grundlagen](grundlagen.md)
   * [Lean](lean.md)

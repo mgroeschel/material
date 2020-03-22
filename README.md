@@ -9,5 +9,5 @@ Bitte bearbeiten Sie die Materialien zu den folgenden Themen. Weitere Materialie
   * [User Stories](userstories.md)
   * [User Story Mapping](userstorymapping.md)
  
- Sie können Änderungen an diesem Repository und den Dokumenten anhand der Commits im Git nachverfolgen.
+ Sie können Änderungen an diesem Repository und den Dokumenten anhand der [Commits im Git](https://github.com/pm-lecture/material/commits/master) nachverfolgen.
  

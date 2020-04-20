@@ -1,4 +1,4 @@
-# Architekturentwurf CP
+# Assignment: Architekturentwurf CP
 
 Sommersemester 2020 | Prof. Thomas Smits | Ausgabe: 22.4.2020
 

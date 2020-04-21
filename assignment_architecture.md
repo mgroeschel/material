@@ -88,3 +88,12 @@ Ausgehend von den definierten Komponenten legen Sie fest, wo die Komponenten aus
 *Ergebnis*:
 
   * [Einsatz- und Verteilungsdiagramm (UML)](https://www.oose.de/wp-content/uploads/2012/05/UML-Notations%C3%BCbersicht-2.5.pdf)
+
+
+## Gesamtüberblick
+
+Nachdem Sie alle Daten zusammen gestellt haben, sollten Sie noch einen groben Gesamtüberblick über das System erstellen. Hierzu bietet sich ein FMC-Diagramm an.
+
+*Ergebnis*:
+
+  * Gesamtüberblick in grober Form als [FMC-Diagramm](http://www.fmc-modeling.org/)
